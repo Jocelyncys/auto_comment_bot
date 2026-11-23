@@ -1,0 +1,3 @@
+# Private comment lists - keep local only
+*.csv
+!comments_example.csv
